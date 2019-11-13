@@ -1,0 +1,15 @@
+{
+  "name": "cli_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "jssha": "^2.3.1"
+  }
+}
